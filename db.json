@@ -1,0 +1,28 @@
+{
+  "funcionarios": [
+    {
+      "nome": "ViniJr",
+      "funcao": "Atacante",
+      "salario": "1300333",
+      "id": "7e22"
+    },
+    {
+      "nome": "Lucas Paranhos",
+      "funcao": "Analista Jr",
+      "salario": "12",
+      "id": "5bda"
+    },
+    {
+      "id": "1221",
+      "nome": "sas",
+      "funcao": "Atacante",
+      "salario": "12323"
+    },
+    {
+      "nome": "Mc Kevin",
+      "funcao": "MC",
+      "salario": "0",
+      "id": "b7b1"
+    }
+  ]
+}
