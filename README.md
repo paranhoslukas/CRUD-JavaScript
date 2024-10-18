@@ -15,7 +15,7 @@ Antes de começar, você precisará ter o [Node.js](https://nodejs.org/) instala
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/paranhoslukas/CRUD-JavaScript
 
 2. Navegue até o diretório do projeto:
     cd seu-projeto
@@ -28,6 +28,7 @@ Antes de começar, você precisará ter o [Node.js](https://nodejs.org/) instala
 
 # Estrutura do Projeto
 db.json: O arquivo que contém os dados do seu banco de dados.
+
 server.js: O arquivo de configuração do servidor 
 
 # Contato
